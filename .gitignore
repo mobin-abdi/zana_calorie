@@ -1,0 +1,41 @@
+# ==========================================
+# 🐍 Python / Django Settings (Backend)
+# ==========================================
+
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+backend/.env
+.env
+backend/db.sqlite3
+
+
+# ==========================================
+# 📱 Flutter / Dart Settings (Frontend)
+# ==========================================
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.DS_Store
+Thumbs.db
